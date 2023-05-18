@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="normal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#8A9E92</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <style name="normals" parent="normal">
+        <item name="android:layout_width">320dp</item>
+        <item name="android:layout_height">330dp</item>
+    </style>
+
+    <style name="normalss" parent="normals" />
+</resources>
